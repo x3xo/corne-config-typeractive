@@ -60,7 +60,7 @@
             key-positions = <26 27>;
         };
 
-        combo_tab2 {
+        combo_tab3 {
             bindings = <&kp TAB>;
             key-positions = <31 32>;
         };
