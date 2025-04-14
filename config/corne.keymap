@@ -44,6 +44,46 @@
             bindings = <&kp ENTER>;
             key-positions = <38 39>;
         };
+
+        combo_tab1 {
+            bindings = <&kp TAB>;
+            key-positions = <16 19>;
+        };
+
+        combo_tab2 {
+            bindings = <&kp TAB>;
+            key-positions = <27 28>;
+        };
+
+        combo_escape {
+            bindings = <&kp ESCAPE>;
+            key-positions = <26 27>;
+        };
+
+        combo_tab2 {
+            bindings = <&kp TAB>;
+            key-positions = <31 32>;
+        };
+
+        combo_esc2 {
+            bindings = <&kp ESCAPE>;
+            key-positions = <33 32>;
+        };
+
+        combo_esc3 {
+            bindings = <&kp ESCAPE>;
+            key-positions = <3 8>;
+        };
+
+        combo_enter2 {
+            bindings = <&kp ENTER>;
+            key-positions = <28 26>;
+        };
+
+        combo_enter3 {
+            bindings = <&kp ENTER>;
+            key-positions = <7 8 9>;
+        };
     };
 
     keymap {
