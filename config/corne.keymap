@@ -58,11 +58,6 @@
             key-positions = <33 32>;
         };
 
-        combo_esc3 {
-            bindings = <&kp ESCAPE>;
-            key-positions = <3 8>;
-        };
-
         combo_enter2 {
             bindings = <&kp ENTER>;
             key-positions = <28 26>;
