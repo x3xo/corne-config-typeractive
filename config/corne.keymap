@@ -90,7 +90,7 @@
 
         combo_equals {
             bindings = <&kp EQUAL>;
-            key-positions = <39 22>;
+            key-positions = <39 21>;
         };
 
         combo_tilde {
