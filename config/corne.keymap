@@ -87,6 +87,16 @@
             bindings = <&kp TILDE>;
             key-positions = <34 39>;
         };
+
+        combo_hash_tag {
+            bindings = <&kp HASH>;
+            key-positions = <39 18>;
+        };
+
+        combo_quote {
+            bindings = <&kp SINGLE_QUOTE>;
+            key-positions = <39 22>;
+        };
     };
 
     keymap {
