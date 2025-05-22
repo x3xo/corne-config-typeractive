@@ -92,6 +92,11 @@
             bindings = <&kp EQUAL>;
             key-positions = <39 22>;
         };
+
+        combo_tilde {
+            bindings = <&kp TILDE>;
+            key-positions = <34 39>;
+        };
     };
 
     keymap {
